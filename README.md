@@ -12,3 +12,4 @@ Blog diseñado para el autoaprendizaje sobre las diferentes tecnologías para el
 * **Tema 6:** Backend
 
 ## Clases 
+* ### Clase 1
