@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "643a2a76ef6e320fa2c7e298"
+  },
+  "Duracion": "5-10 años",
+  "Descripcion": "Depende dela calidad de materiales, frecuencia e intensidad de uso"
+},{
+  "_id": {
+    "$oid": "643a2b6cef6e320fa2c7e299"
+  },
+  "Duracion": "5-7 años",
+  "Descripcion": "Realizar una actualizacion y mantenimiento regular"
+},{
+  "_id": {
+    "$oid": "643a2c99ef6e320fa2c7e29a"
+  },
+  "Duracion": "5-7 años",
+  "Descripcion": "Realizar una actualizacion y mantenimiento regular"
+},{
+  "_id": {
+    "$oid": "643a2d51ef6e320fa2c7e29b"
+  },
+  "Duracion": "10-15 años",
+  "Descripcion": "Realizar una actualizacion,tecnologia usada en este dispositivo y mantenimiento regular"
+},{
+  "_id": {
+    "$oid": "643a2dedef6e320fa2c7e29c"
+  },
+  "Duracion": "5-7 años",
+  "Descripcion": "Realizar una actualizacion y mantenimiento regular"
+},{
+  "_id": {
+    "$oid": "643ae8d457f1b7a99b8c6a76"
+  },
+  "Duracion": "5-10 años",
+  "Descripcion": "Realizar una actualizacion, grado de uso y mantenimiento regular"
+},{
+  "_id": {
+    "$oid": "643aea0557f1b7a99b8c6a77"
+  },
+  "Duracion": "5-10 años",
+  "Descripcion": "Realizar una actualizacion y mantenimiento regular"
+}]

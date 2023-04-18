@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "643a2a76ef6e320fa2c7e298"
+  },
+  "FechaMantenimiento": "15/abril/2020",
+  "Tipo": "Preventivo",
+  "Descripcion": "NAN",
+  "EstadoInicial": "Service",
+  "EstadoFinal": "Service"
+},{
+  "_id": {
+    "$oid": "643a2b6cef6e320fa2c7e299"
+  },
+  "FechaMantenimiento": "31/Marzo/2021",
+  "Tipo": "Correctivo",
+  "Descripcion": "Variaciones de Campo magnetico",
+  "EstadoInicial": "Out service",
+  "EstadoFinal": "service"
+},{
+  "_id": {
+    "$oid": "643a2c99ef6e320fa2c7e29a"
+  },
+  "FechaMantenimiento": "30/junio/2020",
+  "Tipo": "Preventivo",
+  "Descripcion": "NAN",
+  "EstadoInicial": "service",
+  "EstadoFinal": "service"
+},{
+  "_id": {
+    "$oid": "643a2d51ef6e320fa2c7e29b"
+  },
+  "FechaMantenimiento": "12/marzo/2022",
+  "Tipo": "Preventivo",
+  "Descripcion": "NAN",
+  "EstadoInicial": "service",
+  "EstadoFinal": "service"
+},{
+  "_id": {
+    "$oid": "643a2dedef6e320fa2c7e29c"
+  },
+  "FechaMantenimiento": "05/julio/2021",
+  "Tipo": "Correctivo",
+  "Descripcion": "Reemplazo de cable de alimentación",
+  "EstadoInicial": "Out service",
+  "EstadoFinal": "service"
+},{
+  "_id": {
+    "$oid": "643ae8d457f1b7a99b8c6a76"
+  },
+  "FechaMantenimiento": "14/febrero/2023",
+  "Tipo": "Preventivo",
+  "Descripcion": "NAN",
+  "EstadoInicial": "Service",
+  "EstadoFinal": "service"
+},{
+  "_id": {
+    "$oid": "643aea0557f1b7a99b8c6a77"
+  },
+  "FechaMantenimiento": "29/febrero/2020",
+  "Tipo": "Preventivo",
+  "Descripcion": "NAN",
+  "EstadoInicial": "Service",
+  "EstadoFinal": "service"
+}]
