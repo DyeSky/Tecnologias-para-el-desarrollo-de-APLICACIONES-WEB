@@ -1,20 +1,6 @@
-# Tecnologias-para-el-desarrollo-de-APLICACIONES-WEB
-Blog diseñado para el autoaprendizaje sobre las diferentes tecnologías para el desarrollo de aplicaciones web.
+# Tecnologias-para-el-desarrollo-de-APLICACIONES-WEB-PROYECTO:-ENTRAGA-2
 
+Este repositorio contiene todos los archivos usados para la elaboración de la entraga 2 del proyecto de «Desarrollo y aplicaciones web para la vigilancia de dispositivos médicos« con base de datos NoSQL.
 
-
-## Contenido
-* **Tema 1:** Linux
-* **Tema 2:** Base de datos 
-* **Tema 3:** Servicios
-* **Tema 4:** Arquitectura 
-* **Tema 5:** Frontend
-* **Tema 6:** Backend
-
-## Clases
-* **Clase1**
-
-czxjclcLC
-dsadadasda
-
-asdasdadasda
+1. El archivo word contiene los datos investigados para realizar la base de datos. 
+2. Los archivos .json contienen la base de datos de cada una de las colecciones.
