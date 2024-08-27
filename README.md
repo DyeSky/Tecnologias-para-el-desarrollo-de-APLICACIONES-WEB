@@ -4,3 +4,6 @@ Este repositorio contiene todos los archivos usados para la elaboración de la e
 
 1. El archivo word contiene los datos investigados para realizar la base de datos. 
 2. Los archivos .json contienen la base de datos de cada una de las colecciones.
+
+
+https://aplicacionesweb10.wordpress.com
